@@ -1,3 +1,7 @@
+<a href="https://billing.sparkedhost.com/aff.php?aff=3242">
+<img src="https://cdn.modrinth.com/data/cached_images/277f1b5c0c151bb93fec06c6b820aa67f2ad83f6.png" alt="Sparked Hosting Logo" width=30%/>
+</a>
+
 # Muslimcraft-Lite-Bedrock-Edition
 
 Makes Minecraft more clearly Halal, via WIP

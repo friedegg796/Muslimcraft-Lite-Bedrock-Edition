@@ -5,8 +5,8 @@ accessibility.screenName.inviteToGame=Invite To Game Screen (Don't forget your d
 
 achievement.bakeCake=Diabetes Galore!
 
-achievement.enchantments= Knowledge of the ages
-achievement.enchantments.desc=Use a book, obsidian and diamonds to construct a knowledge table
+achievement.enknowledgements= Knowledge of the ages
+achievement.enknowledgements.desc=Use a book, obsidian and diamonds to construct a knowledge table
 
 achievement.snipeSkeleton.desc=Kill a White Monster with an arrow from more than 50 meters
 
@@ -104,18 +104,13 @@ howtoplay.enchantingTable.header.1=Enknowleding
 howtoplay.enchantingTable.text.2=When an enknowledgable item is placed in the slot below the book in the Enknowleding Table, the three buttons to the right of the slot will display some enknowledgements with their Experience Level cost and Lapis Lazuli cost.
 howtoplay.enchantingTable.text.3=The actual enknowledgement applied is randomly selected based on the cost displayed.
 howtoplay.enchantingTable.header.2=Stronger Enknowledgements
-howtoplay.enchantingTable.text.4=If the Enknowledgement Table is surrounded by Bookshelves (up to a maximum of 15), with a one block gap between the Bookshelf and the Enknowledgement Table, arcane glyphs will be seen going to the book on the Enchanting Table and the potency of the enchantments will be increased.
-howtoplay.enchantingTable.header.3=Enchanting Books
-howtoplay.enchantingTable.text.5=Enchanted Books are used at the Anvil to apply enchantments to items. This gives you more control over which enchantments you would like on your items.
-howtoplay.encyclopedia=Encyclopedia
-howtoplay.encyclopedia.title=Minecraft Encyclopedia
-howtoplay.encyclopedia.text.1=Minecraft Encyclopedia
-howtoplay.endCities=End Cities
-howtoplay.endCities.text.1=After killing the Ender Dragon, an End Gateway will appear. Throwing an Ender Pearl into the portal will teleport you to the outer islands.
-howtoplay.endCities.text.2=This alien new landscape must hide something interesting, and maybe something to bring back with you.
-howtoplay.enderChest=Ender Chest
-howtoplay.enderChest.text.1=All Ender Chests in a world are linked. Items placed into an Ender Chest are accessible in any other Ender Chest. However, the contents of the Ender Chests are specific for each player. This allows players to store items in any Ender Chest, and retrieve them from other Ender Chests in different positions in the world.
-howtoplay.eyeOfEnder=Eye of Ender
+howtoplay.enchantingTable.text.4=If the Enknowledgement Table is surrounded by Bookshelves (up to a maximum of 15), with a one block gap between the Bookshelf and the Enknowledgement Table, arcane glyphs will be seen going to the book on the Enchanting Table and the potency of the enknowledgements will be increased.
+howtoplay.enchantingTable.header.3=Enknowleding Books
+howtoplay.enchantingTable.text.5=Lesser Books of Knowledge are used at the Anvil to apply enknowledgements to items. This gives you more control over which enknowledgements you would like on your items.
+
+
+howtoplay.endCities.text.1=After killing the Ender Dragon, an End Gateway will appear. Throwing an Ender Pearl into the portal should teleport you to the outer islands.
+
 howtoplay.eyeOfEnder.text.1=Eyes of Ender are mysteriously connected to the End and will behave strangely when used.
 howtoplay.eyeOfEnder.text.2=Rumor has it that they can lead you to open another dimension.
 howtoplay.farming=Farming
@@ -475,7 +470,7 @@ howtoplay.tools.text.5.notTouch=The Shovel is good at breaking loose blocks like
 howtoplay.tools.text.5.touch=The Shovel is good at breaking loose blocks like Dirt, Sand, and Gravel. Shovels can also create a path by tapping on grass blocks.
 howtoplay.tools.text.6.notTouch=The Hoe is required for tilling Dirt to plant crops. Press :_input_key.use: on Dirt or Grass blocks to turn them into Farmland.
 howtoplay.tools.text.6.touch=The Hoe is required for tilling Dirt to plant crops. Tap Dirt or Grass blocks to turn them into Farmland.
-howtoplay.tools.text.7=All of these tools can accept enchantments, either from the Enchanting Table or Anvil.
+howtoplay.tools.text.7=All of these tools can accept enknowledgements, either from the Enchanting Table or Anvil.
 howtoplay.tools.header.2=Other Tools
 howtoplay.tools.text.8=There are even more tools to aid you on your adventure:
 howtoplay.tools.text.9=A Bucket will allow you to collect things like Water, Milk, Lava, and even Fish.
@@ -525,7 +520,7 @@ howtoplay.weapons.header.4=Pitchfork of the sea
 howtoplay.weapons.text.6.notTouch=The Pitchfork of the sea is a dual-purpose melee and ranged weapon. Press :_input_key.attack: to attack. Press and hold :_input_key.use: to draw the trident back. Release :_input_key.use: to throw the trident. The Pitchfork of the sea is the best weapon underwater.
 howtoplay.weapons.text.6.touch=The Pitchfork of the sea is a dual-purpose melee and ranged weapon. Tap mobs to attack them. Press and hold the Screen to draw the trident back. Release the press to throw the trident. The Pitchfork of the sea is the best weapon underwater.
 howtoplay.weapons.header.5=Enchanted Weapons
-howtoplay.weapons.text.7=The Sword, Bow, Crossbow, and Pitchfork of the sea have specific enchantments that you can get from the Enchanting Table or Anvil that will improve damage, durability and even light mobs on fire!
+howtoplay.weapons.text.7=The Sword, Bow, Crossbow, and Pitchfork of the sea have specific enknowledgements that you can get from the Enchanting Table or Anvil that will improve damage, durability and even light mobs on fire!
 howtoplay.worlds=Worlds
 howtoplay.worlds.text.1=Worlds in the Minecraft Marketplace are Minecraft levels where our partners have altered the terrain and placed new blocks to create amazing structures and terrain for you to explore and enjoy.
 howtoplay.worlds.text.2=Worlds can also include new items, mobs, blocks and even custom gameplay.
@@ -4539,7 +4534,7 @@ howtoplay.smithing_table.text.2=Use it to make all kinds of changes, for example
 howtoplay.smithing_table.text.3=In order to upgrade your equipment, you'll need a Smithing Template. You can find a large variety throughout the world, which can be used for all kinds of upgrades.
 howtoplay.smithing_table.text.4=Place a Template into the leftmost slot of a Smithing Table to see which items you need for the upgrade.
 howtoplay.smithing_table.text.5=For example, to upgrade Diamond equipment to Netherite, you need a Netherite Upgrade Smithing Template, which you can find in Bastion Remnants. Then, place the Diamond equipment in the equipment slot and a Netherite ingot in the ingredient slot, and you're done!
-howtoplay.smithing_table.text.6=Item properties such as enchantments and armor trims will be retained, but the Smithing Template will be consumed when you upgrade your equipment. Don't worry - you can craft copies of them with your Crafting Table.
+howtoplay.smithing_table.text.6=Item properties such as enknowledgements and armor trims will be retained, but the Smithing Template will be consumed when you upgrade your equipment. Don't worry - you can craft copies of them with your Crafting Table.
 howtoplay.smithing_table.text.7=Get creative and customize the look of your armor with Armor Trims. You'll need an Armor Trim Smithing Template to get started, which you can find throughout the world.
 howtoplay.smithing_table.text.8=Place a Template into the leftmost slot of a Smithing Table to see which items you need for the upgrade. Then place a piece of armor in the equipment slot and a crystal or ingot in the ingredient slot. Done!
 howtoplay.smithing_table.text.9=Only certain crystals and ingots can be used for Armor Trims. Try different kinds like Iron, Gold, or Lapis to create unique designs!
